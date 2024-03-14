@@ -1,4 +1,4 @@
-# DATA6300-DD
+# Car-Sales-Data-Dive
 Data Dive Project Overview
 
 The Data Dive project is not an examination but a group endeavor aimed at emulating the real-life work environment of data scientists. This project is an integral part of the DATA 6300 course, offering students a fun and comprehensive platform to demonstrate their acquired data science skills in an unstructured format. Each participant will be assigned to a group of 3-4 members to collaboratively tackle the project over Zoom. The main tasks include data exploration, cleaning, engineering, and modeling, with the ultimate goal of predicting car sale prices using a dataset provided on D2L.
